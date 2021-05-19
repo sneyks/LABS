@@ -7,7 +7,7 @@
 ## Виконання роботи:
 
 #### 1. Записати (придумати) матрицю суміжності орієнтованого графа G={7,12}. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab2/1.png)
+![image](https://github.com/sneyks/LABS/blob/main/lab_2/1.jpg)
 
 0, 0, 0, 0, 0, 1, 0,  
 0, 0, 0, 1, 0, 0, 0,  
@@ -36,7 +36,7 @@
 1, 1, 1, 1, 1, 1, 0.
 
 #### 2. За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={7,15} та записати його матрицю суміжності.
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab2/2.png)
+![image](https://github.com/sneyks/LABS/blob/main/lab_2/2.jpg)
 
 0, 1, 1, 1, 0, 1, 1,
 1, 0, 1, 1, 0, 0, 0,
@@ -48,12 +48,12 @@
 
 6) Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей?
 
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab2/3.jpg)
+![image](https://github.com/sneyks/LABS/blob/main/lab_2/3.jpg)
 
 7) Як зміниться топологія графа (структурні зв’язки), якщо всі елементи над або під діагоналлю перетворити в 1? Або 0?
 Всi елементи над головною дiагоналлю перетворюємо в 0.
 
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab2/4.jpg)
+![image](https://github.com/sneyks/LABS/blob/main/lab_2/4.jpg)
 
 0, 0, 1, 1, 0, 1, 1,
 1, 0, 0, 1, 0, 0, 0,
@@ -65,7 +65,7 @@
 
 #### 3.За допомогою лабораторного макету побудувати випадковий орієнтований граф G={5,10} та записати його матрицю відповідностей (інцедентності).
 
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab2/5.png)
+![image](https://github.com/sneyks/LABS/blob/main/lab_2/5.jpg)
 
 8) Як з матриці відповідностей можна визначити ступінь кожної вершини?
 Ступiнь вершини визначається кiлькiстю ребер, якi з неї входять i виходять
