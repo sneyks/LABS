@@ -29,7 +29,7 @@ a) Побудувати дерево за алгоритмом обходу в �
 ![image](https://github.com/sneyks/LABS/blob/main/lab_3/7.jpg)
 
 ### 3) Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9}.
-![image](https://github.com/sneyks/LABS/blob/main/lab_3/8.jpg)
+![image](https://github.com/sneyks/LABS/blob/main/lab_3/8).jpg)
 
 ### 4) Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу
 ![image](https://github.com/sneyks/LABS/blob/main/lab_3/9.jpg)
